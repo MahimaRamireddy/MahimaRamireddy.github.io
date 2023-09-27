@@ -31,16 +31,19 @@ You now have two clients connected to the server, ready to play.
      
 - The game will automatically determine the winner or declare a draw.
      
+
+
+
+
 :exclamation: This game works only for 2 clients. :exclamation:
 
 
-Enjoy playing Tic-Tac-Toe with your friends through this simple 2 player implementation!
 
 ## Below is what the game looks like : 
 
 
 
-<img width="162" alt="image" src="https://github.com/MahimaRamireddy/MahimaRamireddy.github.io/assets/106462040/f0ee25b2-0107-4784-9b42-8740e9c2475b">
+<img width="162" alt="image" src="https://github.com/MahimaRamireddy/MahimaRamireddy.github.io/assets/106462040/f0ee25b2-0107-4784-9b42-8740e9c2475b">\
 
 
 
@@ -48,7 +51,11 @@ Enjoy playing Tic-Tac-Toe with your friends through this simple 2 player impleme
 
 
 
-<img width="160" alt="image" src="https://github.com/MahimaRamireddy/MahimaRamireddy.github.io/assets/106462040/3ef42e9a-11b8-4d4e-bda3-12f5456de041">
+
+<img width="160" alt="image" src="https://github.com/MahimaRamireddy/MahimaRamireddy.github.io/assets/106462040/3ef42e9a-11b8-4d4e-bda3-12f5456de041">\
 
 
 
+
+
+Enjoy playing Tic-Tac-Toe with your friends through this simple 2 player implementation!
